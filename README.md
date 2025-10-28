@@ -1,5 +1,5 @@
 # Fullstack demo
-This is a small demo for fullstack web page using **Flask** and **React**.
+This is a small demo for fullstack web page using **Flask** and **React**. This is intended as a playground for me to learn and explore react and interactions between frontend and backend.
 - React (TS)
 - Vite
 - Flask
